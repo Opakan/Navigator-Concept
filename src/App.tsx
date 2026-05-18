@@ -26,12 +26,12 @@ import {
 
 // Using the exact paths from generation
 const IMAGES = {
-  hero: "/src/assets/images/hero_epc_env_v2_1779110741617.png",
-  engineering: "/src/assets/images/engineering_blueprint_1779110672750.png",
-  construction: "/src/assets/images/construction_site_1779110687771.png",
-  procurement: "/src/assets/images/procurement_logistics_1779110705594.png",
-  projectManagement: "/src/assets/images/project_management_hub_1779110721034.png",
-  projectShowcase: "/src/assets/images/project_showcase_1_1779110760181.png"
+  hero: "/images/hero_epc_env_v2_1779110741617.png",
+  engineering: "/images/engineering_blueprint_1779110672750.png",
+  construction: "/images/construction_site_1779110687771.png",
+  procurement: "/images/procurement_logistics_1779110705594.png",
+  projectManagement: "/images/project_management_hub_1779110721034.png",
+  projectShowcase: "/images/project_showcase_1_1779110760181.png"
 };
 
 const NAV_LINKS = ["Home", "Services", "Projects", "About", "Contact"];
